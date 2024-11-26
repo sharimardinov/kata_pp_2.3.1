@@ -1,0 +1,9 @@
+/usr/src/mymaven/src/main/java/app/dao/UserDaoImpl.java
+/usr/src/mymaven/src/main/java/app/service/UserServiceImpl.java
+/usr/src/mymaven/src/main/java/app/web/config/WebConfig.java
+/usr/src/mymaven/src/main/java/app/service/UserService.java
+/usr/src/mymaven/src/main/java/app/web/config/AppInit.java
+/usr/src/mymaven/src/main/java/app/dao/UserDao.java
+/usr/src/mymaven/src/main/java/app/config/DBConfig.java
+/usr/src/mymaven/src/main/java/app/model/User.java
+/usr/src/mymaven/src/main/java/app/web/controller/UserController.java

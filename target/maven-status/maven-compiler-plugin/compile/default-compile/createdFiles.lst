@@ -1,0 +1,9 @@
+app/web/controller/UserController.class
+app/dao/UserDao.class
+app/model/User.class
+app/service/UserService.class
+app/web/config/AppInit.class
+app/dao/UserDaoImpl.class
+app/web/config/WebConfig.class
+app/config/DBConfig.class
+app/service/UserServiceImpl.class
